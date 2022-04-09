@@ -1,3 +1,0 @@
-#This is test file
-#Print Hello World
-echo " Hello World "
